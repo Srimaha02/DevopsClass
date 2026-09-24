@@ -1,0 +1,62 @@
+# 🚀 DevOps Learning Journey
+
+This repository contains my hands-on learning journey in **DevOps**, covering development, operations, automation, CI/CD, cloud, and deployment.
+
+## 📅 Day 1 – DevOps & Git/GitHub
+
+### 📚 Topics Learned
+
+- What is DevOps?
+- Dev vs Ops
+- DevOps Lifecycle
+- Git & GitHub
+- Local & Remote Repository
+- Git workflow
+- Code → Build → Integration → Deployment
+- CI/CD basics
+- Overview of DevOps tools
+
+### 🔧 Git Commands Practiced
+
+```bash
+git --version
+git clone
+git init
+git status
+git add
+git commit
+git log
+git branch
+git remote
+git pull
+git push
+git config
+🛠️ Tools Introduced
+Git & GitHub
+Maven
+Jenkins
+Docker
+Kubernetes
+AWS
+Terraform
+Ansible
+Prometheus & Grafana
+🔄 DevOps Flow
+Code
+ ↓
+Git/GitHub
+ ↓
+Build
+ ↓
+Test
+ ↓
+CI/CD
+ ↓
+Deploy
+ ↓
+Monitor
+🎯 Day 1 Takeaway
+
+Understood the fundamentals of DevOps, Git/GitHub, CI/CD, and the overall software delivery process.
+
+🚀 Learn → Practice → Automate → Deploy
